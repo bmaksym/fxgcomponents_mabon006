@@ -13,6 +13,8 @@
 <br>
 Regarder la séction en cliquant sur le lien [`Package NPM`](https://www.npmjs.com/package/fxgcomponents_mabon006). 
 <br>
+Regarder la séction en cliquant sur le lien [`Storybook`](http://storybook.mabon006.devwebgarneau.com/).
+
 ---------------------------------------------------
 
 <br>
